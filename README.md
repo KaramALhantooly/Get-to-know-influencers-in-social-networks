@@ -1,2 +1,2 @@
-# Get-to-know-influencers-in-social-networks
-Get to know influencers in social networks
+# data-science-project-5
+Contents for project 5
